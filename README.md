@@ -60,7 +60,7 @@ It focuses on creating a clean user interface, responsive layouts, attractive mu
 > Replace the image below with your own screenshot.
 
 ```md
-![Spotify Clone](images/preview.png)
+![Spotify Clone](spotify.png)
 ```
 
 ---
