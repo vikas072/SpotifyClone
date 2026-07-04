@@ -23,7 +23,7 @@
 
 <div align="center">
 
-<img src="Spotify.jpg" alt="Spotify Clone" width="90%" style="border-radius:12px;"/>
+<img src="spotify.jpg" alt="Spotify Clone" width="90%" style="border-radius:12px;"/>
 
 </div>
 
