@@ -1,4 +1,4 @@
- 
+ ````markdown
 <div align="center">
 
 # 🎵 Spotify Clone
@@ -24,7 +24,7 @@ This project recreates the modern Spotify homepage with a clean layout, stylish 
 
 <div align="center">
 
-<img src="Spotify.jpg" alt="Spotify Clone Preview" width="95%"/>
+<img src="spotify.jpg" alt="Spotify Clone Preview" width="95%"/>
 
 </div>
 
@@ -56,118 +56,6 @@ This project recreates the modern Spotify homepage with a clean layout, stylish 
 <tr>
 <td>🖥️ Sidebar Navigation</td>
 <td>Spotify-like sidebar menu</td>
-</tr>
-
-<tr>
-<td>🎼 Music Cards</td>
-<td>Playlist and album sections</td>
-</tr>
-
-<tr>
-<td>💚 Footer Music Player UI</td>
-<td>Spotify-style player interface</td>
-</tr>
-
-</table>
-
----
-
-# 🛠️ Built With
-
-| Technology | Usage |
-|------------|-------|
-| 🌐 HTML5 | Structure |
-| 🎨 CSS3 | Styling & Layout |
-
----
-
-# 📂 Project Structure
-
-```text
-Spotify-Clone/
-│
-├── index.html
-├── style.css
-├── Spotify.jpg
-└── README.md
-```
-
----
-
-# 🚀 Getting Started
-
-### Clone the Repository
-
-```bash
-git clone https://github.com/your-username/spotify-clone.git
-```
-
-### Open the Project
-
-Simply open **index.html** in your browser.
-
-No installation required.
-
----
-
-# 🌟 Future Improvements
-
-I plan to make this project much closer to the real Spotify experience by adding:
-
-- 🎵 Music Playback
-- 🔍 Song Search
-- 👤 User Authentication
-- ❤️ Like & Favorite Songs
-- 📂 Playlists
-- ⏯️ Fully Functional Music Player
-- 🎚️ Volume Controls
-- ⏭️ Next / Previous Song
-- 📱 Better Mobile Responsiveness
-- 🌙 Dark Mode Improvements
-- ⚛️ React Version
-- 🔥 Backend Integration
-- ☁️ Database Support
-- 🎧 Real Spotify-like Experience
-
----
-
-# 💡 What I Learned
-
-- HTML5 Structure
-- CSS Flexbox
-- CSS Grid
-- Responsive Design
-- Positioning
-- UI Cloning
-- Clean Folder Structure
-- Modern Web Design Principles
-
----
-
-# 🤝 Contributing
-
-Contributions, ideas, and suggestions are always welcome.
-
-Feel free to fork the repository and submit a Pull Request.
-
----
-
-# ⭐ Show Your Support
-
-If you liked this project, please consider giving it a ⭐ on GitHub.
-
-It motivates me to build more amazing projects.
-
----
-
-<div align="center">
-
-## 🎵 Keep Coding • Keep Building • Keep Growing 🚀
-
-Made with ❤️ by **Vikas Yadav**
-
-</div>
-````
 </tr>
 
 <tr>
